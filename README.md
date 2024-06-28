@@ -1,9 +1,6 @@
-# Project Name
+A simple project management application using Laravel 11 and React.
 
-A full-stack web application built with Laravel 11, React, and Inertia.js.
-
-## Table of Contents
-
+The project was developed for the following YouTube tutorial from The Code Holic.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
